@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# 빌드 결과물 폴더 무시
+/bin/
+/obj/
+
+# Visual Studio 관련 파일 무시
+/.vs/
+*.suo
+Hello/obj/
+IntegerLiterals/bin/
+IntegerLiterals/obj/
+IntegralTypes/obj/
+Overflow/obj/
