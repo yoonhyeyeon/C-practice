@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36107.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiInterfaceInheritance", "MultiInterfaceInheritance.csproj", "{4FBF32C7-F6EE-43CD-ADD6-3C6DE4E5439E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBF32C7-F6EE-43CD-ADD6-3C6DE4E5439E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBF32C7-F6EE-43CD-ADD6-3C6DE4E5439E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBF32C7-F6EE-43CD-ADD6-3C6DE4E5439E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBF32C7-F6EE-43CD-ADD6-3C6DE4E5439E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF22D0B4-40CB-4A9B-A8DF-A17842E4BF85}
+	EndGlobalSection
+EndGlobal
