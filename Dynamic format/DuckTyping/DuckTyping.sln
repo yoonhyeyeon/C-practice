@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36107.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckTyping", "DuckTyping.csproj", "{D0359A66-1396-44D0-BA04-997036D0F31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0359A66-1396-44D0-BA04-997036D0F31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0359A66-1396-44D0-BA04-997036D0F31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0359A66-1396-44D0-BA04-997036D0F31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0359A66-1396-44D0-BA04-997036D0F31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9898F2C3-EB57-424A-A422-4AA58D13FA35}
+	EndGlobalSection
+EndGlobal
