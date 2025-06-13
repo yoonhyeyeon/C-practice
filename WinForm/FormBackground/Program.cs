@@ -40,7 +40,7 @@ namespace FormBackground
         }
         void Program_MouseWheel(object sender, MouseEventArgs e)
         {
-            this.Opacity = this.Opacity + (e.Delta > 0 ? 0.1 : 0.1);
+            this.Opacity = this.Opacity + (e.Delta > 0 ? 0.1 : -0.1);
             Console.WriteLine($"Opacity : {this.Opacity}");
         }
 
