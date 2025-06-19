@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36128.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Blinker", "A_Blinker.csproj", "{77200F82-9FC4-429E-A882-57AD76A38FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77200F82-9FC4-429E-A882-57AD76A38FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77200F82-9FC4-429E-A882-57AD76A38FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77200F82-9FC4-429E-A882-57AD76A38FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77200F82-9FC4-429E-A882-57AD76A38FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C56BB52-3722-482E-BD48-EE0300A864C7}
+	EndGlobalSection
+EndGlobal
